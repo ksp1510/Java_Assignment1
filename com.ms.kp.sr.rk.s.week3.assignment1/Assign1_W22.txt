@@ -1,0 +1,26 @@
+Create a Web Application in Java that does:
+
+a. Create a Login form that accepts username and password and does validation at Servlet and forwards response to another Servlet (Using RequestDispatcher, Sessions and Cookies) 20 points
+b. After the login.jsp, Draft a form that accepts students name, scores of 5 subjects and provides the average of 5 subjects to the user and Grade Scheme. 30 points
+c. Provide a final.jsp response to a webpage that provides the average, maximum and minimum scores. (Use SendRedirect) and show the grades as per your syllabus/outline.(20 points)
+d. Implement a CSS file that customizing background color , font for the final page. 10 points
+e. the final.jsp page should have college logo and names of your group member and all your result.. 10 points 
+
+(10 points)
+(Ensure to Provide full screenshot of your work, format your code , along briefly explaining the steps and comments within the code for this assignment and submit word/pdf file to the assignment)
+1. Copy page your full screenshot  -briefly tell about the task 
+2. Format your java code -> Source-> format option
+3. Ensure you have comments within java class as follows.
+4. Attach your ER diagram(if your project) to word/pdf file
+5. Zip file of your project within eclipse to moodle
+6. Add the project to the Github.
+Comments within Java code as :
+/* Date -@Date
+Author - @YourName
+Description - brief description 2-3 lines about the code within the java class
+*/ (IF FULL SCREENSHOT IS NOT SHOWN OR Any exchange and submission of copy/paste (totally or partially) the both or all groups who submit that will be given zero and reported for academic dishonesty. 
+
+Package Name to follow the standard as shown here as an example: com.kn.pp.mj.week3.assignment1
+Demo in next class!!
+com.groupinitials.weekNo.assignmentNo
+

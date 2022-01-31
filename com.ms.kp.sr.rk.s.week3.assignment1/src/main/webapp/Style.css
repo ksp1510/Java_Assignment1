@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+body{
+	background-color:#7ac5cd;
+	font-family: Georgia, serif;
+	font-size: 14px;
+}
+
+h2{
+	text-align:center;
+}
+main{
+	height:400px;
+}
+
+footer{
+	
+	background-color:rgba(76, 86, 106, 0.7);
+	height:87px;
+}
+
+#studata{
+	border:solid;
+}
+
+#grades {
+	border:solid;
+}
+
+#grades p{
+	border:dashed;
+	margin:3px;
+	padding:4px;
+}
